@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food
+xmlns="http://codingsam.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="test.xsd">
+    <name>상추</name>
+    <type>야채</type>
+    <cost>2000</cost>
+</food>

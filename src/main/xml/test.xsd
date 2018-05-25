@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://codingsam.com"
+    xmlns="http://codingsam.com"
+    elementFormDefault="qualified">
+    <!-- XSD에서 제공하는 기본 타입을 사용할 때에는 반드시 네임스페이스 선언 시 사용한 접두사를 붙여야 합니다. -->
+<!-- 
+	네임 스페이스는 유일해야한다 때문에 인터넷 주소체계 통상 사용
+	문서의 약속 규칙을 정해놓은 규정집 정도  
+--<element name="food">d">
+	 
+        <complexType>
+	        <sequence>
+	            <element name="name" type="xs:ing" />
+	            <element name="type" type="xs:ing" />
+	            <element name="cost" type="xs:ing" />
+	        </sequence>
+	    </complexType>
+    </element>nt>
+
+ <element name="root" type="xs:ing"></element>n<schema></schema>ma>
